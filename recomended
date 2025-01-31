@@ -1,0 +1,50 @@
+import requests
+import json
+import sys
+import os
+import time
+from requests import session
+import datetime
+from random import SystemRandom
+import random
+from datetime import datetime
+from sh import whoami
+import getpass
+import pytz  
+import datetime
+
+GOLD = '\033[2;93;40m'
+P = '\033[95m'
+CYAN = '\033[96m'
+DARK = '\033[36m'
+B = '\033[94m'
+G = '\033[92m'
+Y = '\033[93m'
+R = '\033[91m'
+BO = '\033[1m'
+UG = '\033[35m'
+PT = '\033[37m'
+PT1 = '\33[5;47;31m'
+UNDER = '\033[4m'
+N = '\033[0m'
+H = '\33[5;41;37m'
+H1 = '\33[2;41;37m'
+L = '\033[0;0m'
+CY = '\33[5;37;45m'
+BB = '\33[7;49;93m'
+BR = '\33[7;49;33m'
+GR1 = '\33[5;49;90m'
+GR = '\33[7;49;90m'
+WW1 = '\33[7;41;32m'
+WW = '\33[5;31;42m'
+MG = '\33[7;49;36m'
+WH = '\33[7;49;37m'
+PTH = '\33[7;49;37m'
+RED = '\033[31m'
+GRY = '\033[90m'
+WW2 = '\33[5;35;46m'
+
+print(f"{RED}{BO}Rilis SC{L} {H}{UNDER} T-VVIP 30s {L} {RED}{BO}ADDED..{L}")
+print("")
+print(f"{PTH}sc rekomendasi pagi - sore {PTH}tgl 31-01-2025             {L}")
+print(f"{PT1}{BO}hayabuza 30s - aurora - vvip 30s - terminator 30s     {L}\n\n{H}3x win harap ganti sc {L}")
