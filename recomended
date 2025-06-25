@@ -44,7 +44,7 @@ RED = '\033[31m'
 GRY = '\033[90m'
 WW2 = '\33[5;35;46m'
 
-print(f"{RED}{BO}Rilis SC{L} {H}{UNDER} Pentagon 30s {L} {RED}{BO}ADDED..{L}")
+print(f"{RED}{BO}Rilis SC{L} {H}{UNDER} VVIP-V3 30s {L} {RED}{BO}ADDED..{L}")
 print("")
 print(f"{PTH}sc rekomendasi {L}")
 print(f"{PT1}{BO}fusion - T-block - VVIP 30S - hayabuza - pentagon {L}\n\n{H}Jika k3 harap ganti sc/reload {L}")
